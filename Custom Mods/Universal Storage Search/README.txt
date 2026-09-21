@@ -1,6 +1,6 @@
 # Universal Storage Search
 
-Universal Storage Search (USS) is a client-side Minecraft mod designed to make finding your stored items much easier
+Universal Storage Search (USS) is a client-side (FABRIC) Minecraft mod designed to make finding your stored items much easier
 
 Instead of checking every chest manually, USS remembers the contents of storage blocks you have already opened and lets you search through them from one menu
 
